@@ -1,0 +1,46 @@
+{
+    "name": "MazeGame",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#E1EEEF",
+        "#E60000",
+        "#024FE8",
+        "#00E0BB",
+        "#00FFFB",
+        "#0092D1",
+        "#57BB30",
+        "#FFC800",
+        "#FF6200",
+        "#1CA4E9",
+        "#9A84A4",
+        "#634C70",
+        "#DAC3E5",
+        "#641E16",
+        "#112EBB"
+    ]
+}
